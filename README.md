@@ -39,7 +39,7 @@ If you're a GitHub user,
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/CleanSheetCo/#/issues) here on GitHub.
+Have a bug or an issue with this project? [Open a new issue](https://github.com/CleanSheetCo/#/issues) here on GitHub.
 
 
 ## Creator
