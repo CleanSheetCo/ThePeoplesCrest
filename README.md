@@ -18,7 +18,7 @@ Some details (read the license, "this-license-is-an-easy-read.txt", for a deeper
 
 ## Getting Started
 
-* [Download a release](/releases) to get the files
+* [Download a release](https://github.com/CleanSheetCo/the-peoples-crest/releases) to get the files
 
 If you're a GitHub user,
 
