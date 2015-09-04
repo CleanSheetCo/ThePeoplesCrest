@@ -1,13 +1,12 @@
 [The People's Crest](http://cleansheet.co/pc/) is designed by [M.Willis](http://mwillis.com). This project is developed and maintained by [Clean Sheet Co.](http://cleansheet.co).
 
-
 ## The People's Crest is yours. 
 
 The People's Crest is an original design intended to capture the passion of being an American soccer fan. The crest was created by M.Willis, and is maintained by us at Clean Sheet Co.  
 
 We have made the entire design, including digital components, vector art, and source files freely available to the U.S. soccer community (and/or anybody who wants it).  Download it, adopt it, remix it, fork it.  Make it yours.  The idea, hopefully, is to create a fan talisman that is fully owned and loved by the American soccer fan. 
 
-Some details (read the license, "this-license-is-an-easy-read.txt", for a deeper dive):
+Some details (read the license, "README-a_basic_license.txt", for a deeper dive):
 
 * This project is made available under the [Creative Commons BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/) license. 
 * The work here is made freely available for *non-commercial*, supporter-centric use. That means you can't sell stuff with this design without talking to us (info@cleansheet.co) first. 
@@ -43,9 +42,9 @@ If you're a GitHub user,
 Have a bug or an issue with this project? [Open a new issue](https://github.com/CleanSheetCo/#/issues) here on GitHub.
 
 
-## Creator
+## Created By
 
-Single Page Template was created by [M.Willis](http://mwillis.com) and is maintained by [Clean Sheet co.](http://cleansheet.co). 
+This project was designed and created by [M.Willis](http://mwillis.com) and is maintained by [Clean Sheet co.](http://cleansheet.co). 
 
 * https://github.com/CleanSheetCo
 * https://twitter.com/CleanSheetCo
