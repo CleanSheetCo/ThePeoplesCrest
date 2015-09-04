@@ -30,11 +30,12 @@ If you're a GitHub user,
 
 * **the-peoples-crest.ai** (an Adobe Illustrator vector source file)
 * **the-peoples-crest.psd** (a layered Adobe Photoshop component file)
-* **RG2014.ttf** (a TrueType font file containing Roadgeek 2014 Series D, the typeface used for the banner)
+* **RG2014.ttf** (a TrueType font file containing *Roadgeek 2014 Series D*, the typeface used for the banner)
 * **the-peoples-crest-blank.pdf** (an Adobe PDF file, sized at 8.5" x 11" containing a black line drawing of the crest. The center circle and banner are blank to facilitate customization. This is useful for simple printing, photocopying and hand-finishing - coloring, lettering, etc.)
-* **cc-by-nc-sa-embed.txt** (a text file containing a snippet of html which you can embed on your website should you decide to publish and attribute your work to the project)
-* **about-the-font.txt** (a text file explaining more about the TTF font file, the typeface it contains, and how it is to be used)
-* **this-license-is-an-easy-read.txt** (a text file containing the exact licensing terms under which this design is made available)
+* **cc-by-nc-sa-embed.html** (a text file containing a snippet of html which you can embed on your website should you decide to publish and attribute your work to the project)
+* **README_a-basic-license.txt** (a text file containing the exact licensing terms under which this design is made available)
+* **README_about-the-font.txt** (a text file explaining more about the TTF font file, the typeface it contains, and how it is to be used)
+
 
 
 ## Bugs and Issues
