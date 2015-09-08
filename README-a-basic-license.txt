@@ -16,7 +16,7 @@ There are a few basic provisos:
 
 That said, if you're an individual or small group that would like to make small run of something (like a t-shirt or a scarf) for supporters that features or adapts this mark, and you need to charge to make it work, just drop us a line to let us know what you're looking to do. Chances are it's cool with us. 
 
-2. If you do use, adapt, and/or publish work based on this mark, please let the world know where it came from: Clean Sheet Co.! 
+2. If you do use, adapt, and/or publish work based on this mark, please let the world know about Clean Sheet Co. and our role in the project!
 
 3. If you do use, adapt and/or publish work based on this mark, you must make the source of your work available to others in the same spirit that we're making this available to you. Share your work, let others build on it, and appreciate it as it grows.  
 
