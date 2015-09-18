@@ -61,8 +61,8 @@ Inside the **font files** folder,
 Inside the **license** folder,
 
 * **README-a-basic-license.txt**, a text file containing the exact licensing terms under which this design is made available
-* **cc-by-nc-sa-embed.html**, a text file containing a snippet of html which you can embed on your website should you decide to publish and attribute your work to the project
-* **cc-by-nc-sa.svg**, an SVG graphic that can be pasted anywhere you publish derivatives of the project
+* **cc-by-nc-sa-embed.html**, a text file containing a snippet of html which you can embed on your website should you decide to publish your work
+* **cc-by-nc-sa.svg**, an SVG graphic that can be displayed or posted anywhere you publish derivatives of the project
 
 
 ## Noted Editing Software
