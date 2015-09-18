@@ -7,7 +7,7 @@ The People's Crest is an original design intended to capture the passion of bein
 
 We have made the entire design, including digital components, vector art, and source files freely available to the U.S. soccer community (and/or anybody who wants it).  Download it, adopt it, remix it, fork it.  Make it yours.  The idea, hopefully, is to create a fan talisman that is fully owned and loved by the American soccer fan. 
 
-Some details (read the license, "README-a-basic-license.txt", for a deeper dive):
+Some details:
 
 * This project is made available under the [Creative Commons BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/) license. 
 * The work here is made freely available for *non-commercial*, supporter-centric use. That means you can't sell stuff with this design without talking to us (info@cleansheet.co) first.  A commercial license to the mark is retained by Clean Sheet Co.
@@ -15,6 +15,7 @@ Some details (read the license, "README-a-basic-license.txt", for a deeper dive)
 * It would also be cool if you *share alike*, meaning you make your modifications freely available for others to use.  That's how a project like this grows! 
 * Finally, we're big believers in inclusion, compassion, and peace.  This work is not welcome to be used for anything that promotes intolerance, hatred or violence. 
 
+Read the license, **README-a-basic-license.txt**, in the **license** folder, for a deeper dive.
 
 
 ## Getting Started
