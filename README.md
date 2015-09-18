@@ -15,12 +15,14 @@ Some details:
 * It would also be cool if you *share alike*, meaning you make your modifications freely available for others to use.  That's how a project like this grows! 
 * Finally, we're big believers in inclusion, compassion, and peace.  This work is not welcome to be used for anything that promotes intolerance, hatred or violence. 
 
-Read the license, **README-a-basic-license.txt**, in the **license** folder, for a deeper dive.
+Read the license **README-a-basic-license.txt**, in the **license** folder, for a deeper dive.
 
 
 ## Getting Started
 
 * [Download the lastes release](https://github.com/CleanSheetCo/ThePeoplesCrest/releases) to get the files
+* Read more about the project, and see some ways the crest can be customized, at the [project site](http://community.cleansheet.co/crest)
+* Read the article that the project originated from: [Identity Sketches for U.S. Soccer](http://mwl.li/us-identity)
 
 If you're a GitHub user,
 
