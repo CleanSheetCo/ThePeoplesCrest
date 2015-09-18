@@ -70,13 +70,14 @@ Have a bug or an issue with this project? [Open a new issue](https://github.com/
 
 This project was designed and created by [M.Willis](http://mwillis.com) and is maintained by [Clean Sheet co.](http://cleansheet.co). 
 
-* cleansheet.co
-* https://github.com/CleanSheetCo
-* https://twitter.com/CleanSheetCo
-* https://facebook.com/CleanSheetCo
-* https://instagram.com/CleanSheetCo
-* https://pinterest.com/CleanSheetCo
-* Snapchat: CleanSheetCo
+* [project home](http://community.cleansheet.co/crest)
+* [cleansheet.co](http://cleansheet.co)
+* [https://github.com/CleanSheetCo](https://github.com/CleanSheetCo)
+* [https://twitter.com/CleanSheetCo](https://twitter.com/CleanSheetCo)
+* [https://facebook.com/CleanSheetCo](https://facebook.com/CleanSheetCo)
+* [https://instagram.com/CleanSheetCo](https://instagram.com/CleanSheetCo)
+* [https://pinterest.com/CleanSheetCo](https://pinterest.com/CleanSheetCo)
+* Snapchat: [CleanSheetCo](http://csco.link/snap)
 
 Thanks! 
 
