@@ -26,8 +26,9 @@ Read the license **README-a-basic-license.txt**, in the **license** folder, for 
 
 If you're a GitHub user,
 
-* Fork this repository to develop it your own direction
-* [Pull requests](https://github.com/CleanSheetCo/ThePeoplesCrest/pulls) are welcome! 
+* [Pull requests](https://github.com/CleanSheetCo/ThePeoplesCrest/pulls) to contribute to this repository are welcome! 
+* [Fork this repository](https://github.com/CleanSheetCo/ThePeoplesCrest/network) to develop it in your own direction
+
 
 
 
