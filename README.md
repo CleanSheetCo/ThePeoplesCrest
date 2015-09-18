@@ -1,4 +1,4 @@
-[The People's Crest](http://cleansheet.co/pc/) is designed by [M.Willis](http://mwillis.com). This project is developed and maintained by [Clean Sheet Co.](http://cleansheet.co).
+[The People's Crest](http://community.cleansheet.co/crest/) is designed by [M.Willis](http://mwillis.com). This project is developed and maintained by [Clean Sheet Co.](http://cleansheet.co).
 
 
 ## The People's Crest is yours. 
@@ -11,7 +11,7 @@ Some details:
 
 * This project is made available under the [Creative Commons BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/) license. 
 * The work here is made freely available for *non-commercial*, supporter-centric use. That means you can't sell stuff with this design without talking to us (info@cleansheet.co) first.  A commercial license to the mark is retained by Clean Sheet Co.
-* If you make something with it and publish it, we'd love a shout out or a link back to [http://cleansheet.co/pc](http://cleansheet.co/pc). 
+* If you make something with it and publish it, we'd love a shout out or a link back to [http://community.cleansheet.co/crest](http://community.cleansheet.co/crest). 
 * It would also be cool if you *share alike*, meaning you make your modifications freely available for others to use.  That's how a project like this grows! 
 * Finally, we're big believers in inclusion, compassion, and peace.  This work is not welcome to be used for anything that promotes intolerance, hatred or violence. 
 
