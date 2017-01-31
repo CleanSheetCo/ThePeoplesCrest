@@ -44,6 +44,7 @@ Inside the **for printing & social media** folder,
 * **the-peoples-crest-1920x1080-desktop-wallpaper.png**, a wide format image suitable for desktop wallpaper
 * **the-peoples-crest-2208x1242-phone-wallpaper.jpg**, a vertically-oriented muted-color image suitable for mobile phone wallpaper
 * **the-peoples-crest-blank.pdf**, an Adobe PDF file, sized at 8.5" x 11" containing a black line drawing of the crest. The center circle and banner are blank to facilitate customization. This is useful for simple printing, photocopying, modifying and hand-finishing - coloring, lettering, etc.
+* **the-peoples-crest-20x17-stencil.ai**, an Adobe Illustrator vector file, suitable for printing and using as a template for a t-shirt stencil. 
 
 
 Inside the **for editing** folder,
