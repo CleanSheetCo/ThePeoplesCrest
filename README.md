@@ -44,8 +44,7 @@ Inside the **for printing & social media** folder,
 * **the-peoples-crest-1920x1080-desktop-wallpaper.png**, a wide format image suitable for desktop wallpaper
 * **the-peoples-crest-2208x1242-phone-wallpaper.jpg**, a vertically-oriented muted-color image suitable for mobile phone wallpaper
 * **the-peoples-crest-blank.pdf**, an Adobe PDF file, sized at 8.5" x 11" containing a black line drawing of the crest. The center circle and banner are blank to facilitate customization. This is useful for simple printing, photocopying, modifying and hand-finishing - coloring, lettering, etc.
-* **the-peoples-crest-20x17-stencil.ai**, an Adobe Illustrator vector file, sized at 20" x 17", featuring a blank banner and a knocked-out "United States" slogan. This file is suitable for printing and using as a template for a t-shirt stencil. 
-
+* **the-peoples-crest-20x17-stencil.ai**, an Adobe Illustrator vector file, sized at 20" x 17", featuring a blank banner and a knocked-out "United States" slogan. This file is suitable for printing and using as a template for a t-shirt stencil. Note: the stencil is intended to be divided, so that the crest is stenciled first, and then the lettering is positioned inside the banner area and stenciled on top in a second color. For best results, lettering section of the stencil may be separated out from the main crest stencil and overlaid after the crest is colored, so no repositioning is necessary.
 
 Inside the **for editing** folder,
 
