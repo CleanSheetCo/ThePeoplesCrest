@@ -50,7 +50,7 @@ Inside the **for editing** folder,
 
 * **the-peoples-crest.ai**, an Adobe Illustrator vector source file
 * **the-peoples-crest.psd**, a layered Adobe Photoshop component file
-* **the-peoples-crest.eps**, a layered PostScript component file suitable for many vector editing applicaitons
+* **the-peoples-crest.eps**, a layered PostScript component file suitable for many vector editing applications
 
 Inside the **font files** folder,
 
